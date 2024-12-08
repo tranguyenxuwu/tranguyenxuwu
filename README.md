@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Tran Nguyen 👋
 
-<!--
-**tranguyenxuwu/tranguyenxuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you'll find some of the projects I've been working on.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Developer
+- 🌱 Currently learning advanced Python and machine learning
+- 🔭 Working on open source projects
+- 📫 How to reach me: [Email](mailto:your-email@example.com)
+
+## Skills
+
+- **Languages**: Python, JavaScript, C++
+- **Frameworks**: React, Django, Flask
+- **Tools**: Git, Docker, Jenkins
+
+## Projects
+
+- [Project 1](#): Description of project 1.
+- [Project 2](#): Description of project 2.
+
+## GitHub Stats
+
+![Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranguyenxuwushow_icons=true)
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/your-linkedin/) | [Twitter](https://twitter.com/your-twitter/)
