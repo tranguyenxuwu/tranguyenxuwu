@@ -7,12 +7,12 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
 - 💻 Software Developer
 - 🌱 Currently learning advanced Python and machine learning
 - 🔭 Working on open source projects
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:tranguyenx@gmail.com)
 
 ## Skills
 
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: React, Django, Flask
+- **Languages**: Python, JavaScript, C#, PHP
+- **Frameworks**: React, Django, .NET, Laravel
 - **Tools**: Git, Docker, Jenkins
 
 ## Projects
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
 
 ## GitHub Stats
 
-![Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranguyenxuwushow_icons=true)
+![Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranguyenxuwu/show_icons=true)
 
 ## Connect with Me
 
