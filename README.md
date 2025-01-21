@@ -1,6 +1,6 @@
-# Hi there, I'm Tran Nguyen 👋
+# Hi there, I'm Trần Nguyên 👋
 
-Welcome to my GitHub profile! Here you'll find some of the projects I've been working on.
+"A Vietnamese Computer Sience student with passion"
 
 ## About Me
 
