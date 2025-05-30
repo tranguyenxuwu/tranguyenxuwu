@@ -18,12 +18,12 @@
 ## Projects
 
 - [E-Book Translate](https://github.com/tranguyenxuwu/epub-translate-ml): Ultilize powerful capabilities of modern Large Languae Model (LLM) to translate E-Book files.
-- [Project 2](#): Description of project 2.
+- [Project 2](#): no other projects yet ehehee.
 
 ## GitHub Stats
 
-![Nguyên's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranguyenxuwu)(https://github.com/tranguyenxuwu/github-readme-stats))
+![Nguyên's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranguyenxuwu)
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/tranguyenx/) | [Twitter](https://twitter.com/your-twitter/)
+[LinkedIn](https://www.linkedin.com/in/tranguyenx/) 
