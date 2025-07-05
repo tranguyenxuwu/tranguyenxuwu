@@ -6,7 +6,7 @@
 
 - 💻 Software Developer
 - 🌱 Currently learning advanced Python and machine learning
-- 🔭 Working on open source projects
+- 🔭 Working on Android Developments and AI/ML based projects
 - 📫 How to reach me: [Email](mailto:tranguyenx@gmail.com)
 
 ## Skills
